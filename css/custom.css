@@ -2,9 +2,9 @@
 .mainPic{
     /* border: 1px solid black; */
     box-shadow: 0 0 110px #D1D3BE;
-    -ms-transform: rotate(270deg); /* IE 9 */
-    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
-    transform: rotate(270deg);
+    /* -ms-transform: rotate(270deg); /* IE 9 */
+    /* -webkit-transform: rotate(270deg); Chrome, Safari, Opera */ */
+    /* transform: rotate(270deg); */
 }
 .myworkContainer{
     margin:50px;
@@ -34,6 +34,6 @@
 }
 
 div>.logo {
-    margin-top: 20vh;
+    /* margin-top: 20vh; */
     border-radius: 100px;
 }
